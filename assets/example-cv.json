@@ -1,0 +1,67 @@
+{
+  "meta": { "page": "A4", "font": "Calibri", "fontSize": 10.5 },
+  "name": "Alex Example",
+  "title": "Security Engineer | Physical & Cyber Security",
+  "contact": ["alex.example@email.com", "+000 00 000 00 00", "City, Country", "linkedin.com/in/alexexample"],
+  "sections": [
+    {
+      "heading": "Summary",
+      "type": "text",
+      "text": "Security engineer with 8 years designing and maintaining CCTV and access control systems, now extending into cybersecurity through a master's degree and full-time practical training. Combines hands-on field experience with network assessment and reporting skills."
+    },
+    {
+      "heading": "Skills",
+      "type": "skills",
+      "items": [
+        { "label": "Physical security", "value": "IP CCTV design, access control, system commissioning, VMS platforms" },
+        { "label": "Cybersecurity", "value": "Network reconnaissance, vulnerability assessment, Nmap, Wireshark, Burp Suite" },
+        { "label": "Scripting", "value": "Python, Bash" }
+      ]
+    },
+    {
+      "heading": "Experience",
+      "type": "entries",
+      "items": [
+        {
+          "title": "Senior CCTV Engineer",
+          "org": "Example Security LLC",
+          "location": "City, Country",
+          "dates": "Jan 2019 – Present",
+          "bullets": [
+            "Designed and commissioned **IP camera and access control systems** for 30+ commercial sites.",
+            "Reduced recurring site faults by standardising configuration and firmware checks across installations.",
+            "Led a team of 5 technicians; trained new hires on installation standards and documentation."
+          ]
+        },
+        {
+          "title": "CCTV Technician",
+          "org": "Sample Systems",
+          "location": "City, Country",
+          "dates": "Jun 2016 – Dec 2018",
+          "bullets": [
+            "Installed and maintained analogue and IP surveillance systems for retail and industrial clients.",
+            "Diagnosed network and cabling faults on site, restoring service within agreed response times."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Education",
+      "type": "entries",
+      "items": [
+        { "title": "MSc, Cybersecurity", "org": "Example University", "dates": "2022 – 2024" },
+        { "title": "BSc, Electrical Engineering", "org": "Sample Technical University", "dates": "2012 – 2016" }
+      ]
+    },
+    {
+      "heading": "Certifications",
+      "type": "list",
+      "items": ["Example IoT Pentest Associate, Issuer Name (in progress, expected 2026)"]
+    },
+    {
+      "heading": "Languages",
+      "type": "lines",
+      "items": ["English: fluent", "Azerbaijani: native"]
+    }
+  ]
+}
